@@ -5,13 +5,17 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "お家に在宅 | StayHome"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+name = "test"
+url = "https://jp.huel.com/"
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
