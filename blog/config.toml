@@ -13,7 +13,7 @@ name = "Googleニュース/COVID-19"
 url = "https://news.google.com/covid19/map?hl=ja&gl=JP&ceid=JP:ja"
 weight = 4
 [[menu.main]]
-name = "厚生労働省/新型コロナウイルスに関するQ&A"
+name = "厚生労働省/コロナウイルスQ&A"
 url = "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html"
 weight = 3
 [[menu.main]]
