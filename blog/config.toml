@@ -5,15 +5,15 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "お家に在宅 | StayHome"
 [[menu.main]]
-name = "東京都/コロナウイルス特設サイト"
+name = "東京都特設サイト"
 url = "https://stopcovid19.metro.tokyo.lg.jp/"
 weight = 5
 [[menu.main]]
-name = "Googleニュース/COVID-19"
+name = "Googleニュース"
 url = "https://news.google.com/covid19/map?hl=ja&gl=JP&ceid=JP:ja"
 weight = 4
 [[menu.main]]
-name = "厚生労働省/コロナウイルスQ&A"
+name = "厚生労働省Q&A"
 url = "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html"
 weight = 3
 [[menu.main]]
