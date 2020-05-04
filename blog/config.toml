@@ -11,11 +11,11 @@ weight = 6
 [[menu.main]]
 name = "東京都特設サイト"
 url = "https://stopcovid19.metro.tokyo.lg.jp/"
-weight = 5
+weight = 2
 [[menu.main]]
 name = "Googleニュース"
 url = "https://news.google.com/covid19/map?hl=ja&gl=JP&ceid=JP:ja"
-weight = 4
+weight = 1
 [[menu.main]]
 name = "厚生労働省Q&A"
 url = "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html"
