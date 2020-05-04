@@ -5,6 +5,10 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "お家に在宅 | StayHome"
 [[menu.main]]
+name = "左ききのエレン特別編"
+url = "https://www.unicef.or.jp/hidari-kikino-eren/"
+weight = 6
+[[menu.main]]
 name = "東京都特設サイト"
 url = "https://stopcovid19.metro.tokyo.lg.jp/"
 weight = 5
