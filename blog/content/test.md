@@ -3,7 +3,7 @@ title: "test"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "post"
-# image: "images/post/安心は知ることから2.png"
+image: "images/post/安心は知ることから2.png"
 categories: 
   - "COVID19"
 tags:

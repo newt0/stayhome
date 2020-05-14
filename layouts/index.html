@@ -66,7 +66,7 @@
       {{ range $paginator.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">
-           {{ if .Params.Image }}<img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb"> {{ end }}
+           {{ if .Params.Image }}<img class="img-fluid mb-4 border" style="max-height: 234px; width: auto;" src="{{.Params.Image | absURL }}" alt="post-thumb"> {{ end }}
           <p class="text-uppercase mb-2">{{.Params.Categories}}</p>
           <h4><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
           <!-- <p>{{.Summary}}</p>
