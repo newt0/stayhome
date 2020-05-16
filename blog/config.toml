@@ -20,6 +20,10 @@ weight = 1
 name = "NHK最新ニュース"
 url = "https://www3.nhk.or.jp/news/special/coronavirus/latest-news/"
 weight = 3
+[[menu.main]]
+name = "内閣官房特設サイト"
+url = "https://corona.go.jp/"
+weight = 1
 # [[menu.main]]
 # URL = "contact"
 # name = "Contact"
